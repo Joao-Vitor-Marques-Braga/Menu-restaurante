@@ -89,3 +89,10 @@ body{
     margin-bottom: 0;
     padding-top: 1rem;
 }
+
+@media (max-width:600px) {
+    .centralizar{
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -58,7 +58,7 @@ const menu = [
         title: 'Hamburguer com fritas',
         category:'Almoço',
         price: 'R$:25',
-        img: './images/hamburguer-com-fritas.jpg',
+        img: './images/Hamburguer-com-fritas.jpg',
         desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
 
